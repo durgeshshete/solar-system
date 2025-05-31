@@ -1,2 +1,2 @@
 # solar-system
-solar system using css
+solar system project using css
